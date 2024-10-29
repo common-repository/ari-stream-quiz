@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<svg width="512" height="512" xmlns="http://www.w3.org/2000/svg">
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g id="svg_1">
+   <circle id="svg_2" fill="#007f7f" r="45.819" cy="49.957" cx="255.999"/>
+   <path id="svg_3" fill="#007f7f" d="m255.998993,121.959c-43.380005,0 -78.546997,35.167007 -78.546997,78.546997l157.095001,0c0,-43.37999 -35.166992,-78.546997 -78.548004,-78.546997z"/>
+  </g>
+  <g id="svg_4">
+   <circle id="svg_5" fill="#666666" r="45.819" cy="166.219265" cx="78.547"/>
+   <path id="svg_6" fill="#666666" d="m78.546997,238.221268c-43.379997,0 -78.546997,35.167007 -78.546997,78.547989l157.095001,0c0,-43.380981 -35.167,-78.547989 -78.548004,-78.547989z"/>
+  </g>
+  <g id="svg_7">
+   <circle id="svg_8" fill="#003f7f" r="45.819" cy="165.800595" cx="433.451"/>
+   <path id="svg_9" fill="#003f7f" d="m433.453003,237.802597c-43.380005,0 -78.546997,35.167007 -78.546997,78.546982l157.093994,0c0,-43.379974 -35.166992,-78.546982 -78.546997,-78.546982z"/>
+  </g>
+  <g id="svg_11"/>
+  <g id="svg_12"/>
+  <g id="svg_13"/>
+  <g id="svg_14"/>
+  <g id="svg_15"/>
+  <g id="svg_16"/>
+  <g id="svg_17"/>
+  <g id="svg_18"/>
+  <g id="svg_19"/>
+  <g id="svg_20"/>
+  <g id="svg_21"/>
+  <g id="svg_22"/>
+  <g id="svg_23"/>
+  <g id="svg_24"/>
+  <g id="svg_25"/>
+  <path id="svg_29" d="m258.212341,333.021912c-49.98381,0 -90.500015,30.669586 -90.500015,68.5c0,12.929993 4.791794,25.007599 13.033127,35.318756l-13.033127,28.83728l36.282303,-9.404419c15.121078,8.595001 33.854706,13.748383 54.217712,13.748383c49.983917,0 90.499969,-30.669556 90.499969,-68.5c0,-37.830414 -40.516052,-68.5 -90.499969,-68.5l0,0z" stroke-opacity="null" stroke-width="null" stroke="null" fill="#4C5870"/>
+  <text stroke="null" transform="matrix(1.19231 0 0 1.08951 -43.75 -33.9706)" font-weight="bold" xml:space="preserve" text-anchor="start" font-family="Oswald, sans-serif" font-size="24" id="svg_30" y="406.335687" x="225.822581" stroke-opacity="null" stroke-width="0" fill="#ffffff">Quiz</text>
+ </g>
+</svg>
